@@ -1,4 +1,4 @@
-# open data resource of Vancouver BC or Canada
+# open data resource of Vancouver, BC and Canada
 A curated list by Wataru.
 
 ### Canada
