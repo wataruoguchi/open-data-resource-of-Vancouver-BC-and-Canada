@@ -15,4 +15,8 @@ A curated list by Wataru.
 * [Metro Vancouver](http://www.metrovancouver.org/data)
 * [Vancouver Public Library](http://www.vpl.ca/opendata)
 
+### Organization
+* [Code for Canada](http://community.codeforcanada.org/)
+* [Canadian Open Data Experience](https://www.canadianopendataexperience.ca/)
+
 For your convenience..
